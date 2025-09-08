@@ -9,7 +9,7 @@ I try to take things a step further than course requirements, and promote good r
 
 
 # Current directory:
-### as of 8 / 28 / 2025 - 4:17 am est
+### as of 9 / 7 / 2025 - 8:41 pm est
 
     /Linkedin Learning
       README.md
@@ -33,5 +33,13 @@ I try to take things a step further than course requirements, and promote good r
           // end code directory
 
       // end CSE 130 Final Project directory
+
+      / CSE 302
+        /Assignment 1
+          Specification.txt
+
+          // end Assignment 1 directory
+
+        // end CSE 302 directory
     
     // end U of L Directory
