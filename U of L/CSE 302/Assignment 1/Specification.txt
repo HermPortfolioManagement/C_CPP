@@ -1,0 +1,17 @@
+Important note: will use external homework files
+
+Goal: to familiarize myself with AULists and LLULists
+
+The assignment is broken up into 3 pieces, each with increasing difficulty:
+
+Easy: create a getmin finction that gets the lowest number of each list
+
+Medium: create a getrange function that returns the difference between the highest and largest numbers for each list
+
+Hard: Create a duplication function for AUList that takes two integer inputs and duplicates the number for all numbers in range (inclusive)
+			(e.g: myAU = {1, 3, 2, 7, 9}, myAU.duplicate(1, 3) = {33,22,77} )
+
+Should be able to comple with GCC 14.2 and GNU Make 4.4.1
+
+Security and entry assurance not mentioned, but always nice to have
+
